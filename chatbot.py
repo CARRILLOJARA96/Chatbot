@@ -28,3 +28,5 @@ while True:
     prompt = f"El usuario pregunta: {ingreso_usuario}\nChatGPT responde:"
     respuesta_gpt = preguntar_chat_gpt(prompt)
     print(f"Chatbot: {respuesta_gpt}")
+
+##nueva linea
