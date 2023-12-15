@@ -30,3 +30,4 @@ while True:
     print(f"Chatbot: {respuesta_gpt}")
 
 ##nueva linea
+## segudna linea
